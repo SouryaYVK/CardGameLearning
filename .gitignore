@@ -1,0 +1,12 @@
+# Godot 4.x metadata (The big cache folder)
+.godot/
+/android/
+
+# Exported binaries (Don't version control the builds)
+*.apk
+*.exe
+*.zip
+
+# OS JUNK
+.DS_Store
+Thumbs.db
