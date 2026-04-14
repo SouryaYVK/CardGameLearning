@@ -5,4 +5,7 @@
 [node name="Game" type="Node2D" unique_id=194314810]
 
 [node name="Card" parent="." unique_id=148602770 instance=ExtResource("1_80nbo")]
-position = Vector2(321, 142)
+position = Vector2(107, 124)
+
+[node name="Card2" parent="." unique_id=1381742947 instance=ExtResource("1_80nbo")]
+position = Vector2(728, 129)
